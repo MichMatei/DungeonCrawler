@@ -1,0 +1,4 @@
+playerDmg: 10
+playerMaxHp: 100
+playerHp: 60
+playerExp: 2

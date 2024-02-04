@@ -1,0 +1,12 @@
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe.config
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.pdb
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csprojAssemblyReference.cache
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.CoreCompileInputs.cache
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.exe
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.pdb
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe.manifest
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.application
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.exe.manifest
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.application
+C:\Users\matei\source\repos\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.AssemblyReference.cache
